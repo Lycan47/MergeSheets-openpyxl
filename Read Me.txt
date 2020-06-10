@@ -1,0 +1,8 @@
+This is a Python Executable to Copy and Paste the row values to another workbook's same sheet and same row.
+How to :-
+1.Copy and paste the sheet from where you will be copying the data to Input.xlsx file's Sheet1.
+2.Copy your xlsx workbook as Output.xlsx to which you want to paste.
+3.Now run the executable application file named "workingwithexcell"
+4.Now input the Sheet name(on which you want to paste) to cmd input line 
+5.Next enter the column number that has the unique values in the sheet.
+6.Check if there is any Output2.xlsx workbook if its there delete it. 
